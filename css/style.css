@@ -1,0 +1,18 @@
+/* Author : Ananthu A S */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.bg_main {
+    background-color: #393e46;
+}
+.main_ht_1 {
+    min-height: 60vh;
+}
+.main_ht_2 {
+    min-height: 40vh;
+}
+.font_ht {
+    font-family: serif;
+}
